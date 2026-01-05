@@ -53,14 +53,6 @@ Unauthorized access from a remote machine to gain local access (e.g., password g
 ### U2R (User to Root)
 Unauthorized access to root/administrator privileges by exploiting vulnerabilities (e.g., buffer overflow attacks).
 
-## Installation
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the Flask application:
@@ -84,6 +76,3 @@ Unauthorized access to root/administrator privileges by exploiting vulnerabiliti
 
 See `requirements.txt` for complete list of dependencies.
 
-## License
-
-MIT License
